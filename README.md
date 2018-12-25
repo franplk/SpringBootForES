@@ -1,2 +1,2 @@
 # SpringBootForES
-使用ES开发的一个简单的ES存储服务
+使用SpringBoot开发的一个简单的ES存储服务
